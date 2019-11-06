@@ -1,4 +1,8 @@
 {
     "name": "airflow",
-    "license": "LGPL-3.0"
+    "owner": "Airflow",
+    "license": "LGPL-3.0",
+    "end_date": "2019-12-31",
+    "start_date": "2019-1-1",
+    "schedule_interval": "@daily"
 }

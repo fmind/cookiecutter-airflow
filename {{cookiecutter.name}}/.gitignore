@@ -1,4 +1,6 @@
 logs/
 venv/
+__pycache__/
+
 airflow.db
 airflow-webserver.pid
